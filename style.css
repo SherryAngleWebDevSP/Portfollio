@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit&display=swap');
+
+Body{
+    color: black
+    text-align: center;
+    font family:'Tiro'    
+
+    } 
+   
+     
+.description-contact {
+    background-image:url("images/4685SPOTLIGHT.jpg");
+    background-size: cover;
+    color: black;
+    font-size: larger;
+    text-align: center;
+}
+.form-containeremployment {
+        background-image:url("images/blue-brushstrokes-background.jpg");
+        width: 100%;
+        color: black;
+        font-size: larger;
+        text-align: center;
+
+    }
+.form-containereducation {
+    color: black;
+    background-image:url("images/blue-brushstrokes-background.jpg");
+    width: 100%;
+    font-size: larger;
+    text-align: center;
+
+}
+.form-containeraddinfo {
+    color: darkblue;
+    -webkit-text-stroke: 2px black;
+    font-size: 42pt;
+    font-weight: 900;
+    background-image:url("images/TeamBottomOpen5.jpg");
+    background-position: top;
+    background-size: cover;
+    
+}
+
